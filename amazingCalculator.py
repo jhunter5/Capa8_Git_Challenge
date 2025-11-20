@@ -12,3 +12,5 @@ class Calculator:
 
 
 ## This is a not related Commit, remenber how to just fetch one commit without all the others.
+
+## If you feel lost just see this video it will help you: https://www.youtube.com/watch?v=dQw4w9WgXcQ
