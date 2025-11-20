@@ -4,3 +4,6 @@ class Calculator:
 
     def subtract(self, a, b):
         return a - b
+
+    def divide(self, a, b):
+        return a / b
